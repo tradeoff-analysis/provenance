@@ -1,5 +1,4 @@
-# provenance-for-tradeoff
-### Understanding How In-Visualization Provenance Can Support Trade-off Analysis
+# Understanding How In-Visualization Provenance Can Support Trade-off Analysis
 
 <img src="visprom.png"/>
 
