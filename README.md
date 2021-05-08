@@ -8,7 +8,7 @@ In domains such as agronomy or manufacturing, experts need to consider trade-off
 ## Codebook
 We collected video recordings of three case studies (324 minutes). Two different authors of this paper independently coded each video using discrete events, then met to discuss annotation codes and resolved conflicts. Our **concordance rate** for the identified provenance events was 71%, and was lower for the high level provenance goals by Ragan et al.
 
-Our codebook is available here: <a href="Codebook_Provenance4Tradeoff.csv">CSV</a> <a href="Codebook_Provenance4Tradeoff.xlsx">Excel</a>.
+Our codebook is available here: <a href="Codebook_Provenance4Tradeoff.csv">CSV</a> format or <a href="Codebook_Provenance4Tradeoff.xlsx">Excel</a>.
 
 ## Video
 TBD
