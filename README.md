@@ -16,5 +16,7 @@ TBD
 ## Analysis Notebook
 TBD
 
-## Citation
-TBD
+## Contributors
+M. Chakhchoukh, Univ. Paris-Saclay, CNRS, INRIA, UMR MIA- Paris, AgroParisTech, INRAE. E-mail: mehdi.chakhchoukh@universite- paris-saclay.fr
+N. Boukhelifa, UMR MIA-Paris, AgroParisTech, INRAE, Univ. Paris- Saclay. E-mail: nadia.boukhelifa@inrae.fr
+A. Bezerianos, Univ. Paris-Saclay, CNRS, INRIA. E-mail: anab@lri.fr
