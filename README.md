@@ -11,7 +11,7 @@ We collected video recordings of three case studies (324 minutes). Two different
 Our codebook is available in <a href="Codebook_Provenance4Tradeoff.csv">CSV</a> format or <a href="Codebook_Provenance4Tradeoff.xlsx">Excel</a>.
 
 ## Participants Quotes
-We transcribed example quotes from our study participants to support our findings and observations, organised per result section.
+We transcribed example quotes from our study participants that are representative of the observations and findings described in each result section of our paper. 
 
 These can be found here: TBA
 
