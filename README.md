@@ -15,7 +15,7 @@ Our codebook is available in <a href="Codebook_Provenance4Tradeoff.csv">CSV</a> 
 ## Participants Quotes
 We transcribed example quotes from our study participants that are representative of the observations and findings described in each result section of our paper. 
 
-These can be found here: TBA
+These can be found here: <a href="visprom_selected_quotes.csv">CSV</a> format or <a href="visprom_selected_quotes.xlsx">Excel</a>.
 
 ## Video
 TBD
