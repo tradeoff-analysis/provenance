@@ -18,7 +18,7 @@ We transcribed example quotes from our study participants that are representativ
 These can be found here: <a href="visprom_selected_quotes.csv">CSV</a> format or <a href="visprom_selected_quotes.xlsx">Excel</a>.
 
 ## Video
-TBD
+The video demo of VisProm can be found <a href="https://www.lri.fr/~anab/visprom.mp4">here</a> 
 
 ## Analysis Notebook
 TBD
