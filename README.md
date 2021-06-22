@@ -10,7 +10,7 @@ We collected video recordings of three case studies (324 minutes). Two different
 
 The coding went through 3 passes / iterations (1,2,FINAL colored differently in the excel) and in the codebook these are ordered left to right (FINAL codes at the rightmost columns). 
 
-* Our Analyis Data corpus (all iterations of our data and coding) are available in Excel format here.
+* Our Analysis Data corpus (all iterations of our data and coding) are available in Excel format here.
 * The Jupyter notebook we used for our analysis can be downloaded from <a href="JupyterNotebook.rar"> here</a> (includes the analysis data).   
 
 ## Participants Quotes
