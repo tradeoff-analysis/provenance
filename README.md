@@ -10,7 +10,7 @@ We collected video recordings of three case studies (324 minutes). Two different
 
 The coding went through 3 passes / iterations (1,2,FINAL colored differently in the excel) and in the codebook these are ordered left to right (FINAL codes at the rightmost columns).
 
-Our codebook and the Jupyter notebook we used for our analysis can be downloaded from <a href="JupyterNotebook.rar"> here.</a>   
+Our codebook (our data in Excel format) and the Jupyter notebook we used for our analysis can be downloaded from <a href="JupyterNotebook.rar"> here.</a>   
 
 ## Participants Quotes
 We transcribed example quotes from our study participants that are representative of the observations and findings described in each result section of our paper. 
