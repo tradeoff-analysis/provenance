@@ -17,7 +17,7 @@ We provide:
 ## Participants Quotes
 We transcribed example quotes from our study participants that are representative of the observations and findings described in each result section of our paper. 
 
-These can be found here, in <a href="visprom_selected_quotes.xlsx">Excel</a> or <a href="visprom_selected_quotes.csv">CSV</a> format.
+These can be found here: in <a href="visprom_selected_quotes.xlsx">Excel</a> or <a href="visprom_selected_quotes.csv">CSV</a> format.
 
 ## Video
 The video demo of VisProm can be found <a href="https://www.lri.fr/~anab/visprom.mp4">here.</a> 
