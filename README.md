@@ -21,7 +21,7 @@ These can be found here: <a href="visprom_selected_quotes.csv">CSV</a> format or
 The video demo of VisProm can be found <a href="https://www.lri.fr/~anab/visprom.mp4">here</a> 
 
 ## Analysis Notebook
-TBD
+We provide the Jupyter notebook and coded dataset we used for our analysis <a href="JupyterNotebook.rar"> here </a>   
 
 ## Contributors
 M. Chakhchoukh, Univ. Paris Saclay, France. E-mail: mehdi.chakhchoukh@universite-paris-saclay.fr<br/>
